@@ -1,0 +1,21 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://cnw8y6bvh1jj7"
+path="res://.godot/imported/move_to_pointer.obj-e6c23ee1ac1f134097b8c9505e613cad.mesh"
+
+[deps]
+
+files=["res://.godot/imported/move_to_pointer.obj-e6c23ee1ac1f134097b8c9505e613cad.mesh"]
+
+source_file="res://models/move_to_pointer.obj"
+dest_files=["res://.godot/imported/move_to_pointer.obj-e6c23ee1ac1f134097b8c9505e613cad.mesh", "res://.godot/imported/move_to_pointer.obj-e6c23ee1ac1f134097b8c9505e613cad.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
